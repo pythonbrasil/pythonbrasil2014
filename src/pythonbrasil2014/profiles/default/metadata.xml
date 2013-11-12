@@ -7,6 +7,5 @@
     <dependency>profile-sc.social.like:default</dependency>
     <dependency>profile-collective.upload:default</dependency>
     <dependency>profile-collective.cover:default</dependency>
-    <dependency>profile-pythonbrasil2014:initcontent</dependency>
   </dependencies>
 </metadata>
