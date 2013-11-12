@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<layers>
+ <layer
+     name="pythonbrasil2014"
+     interface="pythonbrasil2014.interfaces.IConference2014"
+     />
+</layers>

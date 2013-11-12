@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<site>
+ <property name="title">PythonBrasil[10]</property>
+ <property name="description">Encontro da Comunidade Python</property>
+ <property name="selectable_views" type="lines">
+  <element value="folder_listing"/>
+  <element value="news_listing"/>
+ </property>
+ <property name="email_from_address" type="string">info@pythonbrasil.org.br</property>
+ <property name="email_from_name" type="string">Organization Team</property>
+ <property name="validate_email" type="boolean">False</property>
+ <property name="email_charset" type="string">utf-8</property>
+ <property name="enable_permalink" type="boolean">False</property>
+ <property name="layout" type="string">@@front-page</property>
+</site>
